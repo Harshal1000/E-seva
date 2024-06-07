@@ -1,4 +1,4 @@
-# RE-seva online appointment website using (Json, Express.js, React.js, and Node.js), Redux Toolkit, and Bootstrap css library.
+# E-seva online appointment website using (Json, Express.js, React.js, and Node.js), Redux Toolkit, and Bootstrap css library.
 
 This is a E-seva website used for appointment for citizens of town and cities Technology plays a huge part in the government system today. Without technology it would been difficult for a local people to achieve immence success. Our main purpose is done by creating an website that we can help to save people time, resource , money and also some hard work. It helps to the people without going physically they get their appointment.
 It was built using (Json, Express.js, React.js, and Node.js), Redux Toolkit, and Bootstrap css library.
